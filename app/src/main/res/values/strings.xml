@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">tdvb</string>
+    <string name="app_welcome_msg">Welcome to tdvb spamapp</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 </resources>
