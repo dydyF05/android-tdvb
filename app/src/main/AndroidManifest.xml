@@ -25,6 +25,9 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".WelcomeActivity" />
         </activity>
+        <activity android:name=".ListActivity" />
+        <activity android:name=".ThirdActivity" />
+        <activity android:name=".SimpleAdapterActivity"></activity>
     </application>
 
 </manifest>
